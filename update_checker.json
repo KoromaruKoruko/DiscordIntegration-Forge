@@ -1,7 +1,7 @@
 [
   {
     "version": "2.6.4",
-    "changelog": "Added new event handling methods for addons\nOtherwise mostly a bug fix update\nAlso forgot to update this json a long time :eyes:",
+    "changelog": "Added new event handling methods for addons\nOtherwise mostly a bug fix update",
     "type": "beta"
   }
 ]
